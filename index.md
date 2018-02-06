@@ -71,10 +71,10 @@ Weitere Infos gibt's auch in unserer Guideline für Teilnehmer [[pdf]](files/Stu
 ## Wie kann ich mich anmelden?
 
 
-Du kannst Dich und Dein Team bis 28.2.2018 [hier](https://docs.google.com/forms/d/1vlDa3gnup3qiFaEhJ5xOWNZ7Apn43h_3oIcxU1iGm48/viewform) anmelden.
+Du kannst Dich und Dein Team bis 28.2.2018 [hier](https://goo.gl/forms/5SX1ydaHXRl5vJGQ2) anmelden.
 Zur verbindlichen Anmeldung muss eine Teilnahmegebühr in Höhe von 10€ pro Teammitglied überwiesen werden.
 
-[Zum Anmeldeformular](https://docs.google.com/forms/d/1vlDa3gnup3qiFaEhJ5xOWNZ7Apn43h_3oIcxU1iGm48/viewform)
+[Zum Anmeldeformular](https://goo.gl/forms/5SX1ydaHXRl5vJGQ2)
 
 
 Bitte lies Dir zuerst auch die [FAQ](faq.html) durch.
