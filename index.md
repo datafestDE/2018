@@ -93,7 +93,6 @@ Eine Guideline für Teilnehmer gibt es [hier [pdf]](files/StudentsInfosandGuidel
 
 ### Impressum
 
-<font size="2">
 
 **Anschrift:**
 Institut für Statistik
@@ -116,5 +115,5 @@ Alle Angaben auf diesen Seiten wurden nach bestem Wissen erstellt, Fehler könne
 
 Diese Seiten enthalten Links zu externen Angeboten. Trotz sorgfältiger Kontrolle wird keine Haftung für diese übernommen. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
 
-</font>
+
 
