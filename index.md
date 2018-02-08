@@ -95,23 +95,23 @@ Eine Guideline für Teilnehmer gibt es [hier [pdf]](files/StudentsInfosandGuidel
 
 <div style="font-size:12px;">
 
-<p><strong>Anschrift:</strong>
-Institut für Statistik
-Ludwigstraße 33
+<p><strong>Anschrift:</strong><br>
+Institut für Statistik<br>
+Ludwigstraße 33<br>
 D-80539 München</p>
 
-<p>Telefon: +49 (0)89 / 2180-3195 (Geschäftsstelle)
+<p>Telefon:<br> +49 (0)89 / 2180-3195 (Geschäftsstelle)<br>
 Telefax: +49 (0)89 / 2180-5041 (Geschäftsstelle)</p>
 
-<p><strong>Verantwortlich für den Inhalt:</strong>
+<p><strong>Verantwortlich für den Inhalt:</strong><br>
 Bernd Bischl</p>
 
-<p><strong>Zuständige Aufsichtsbehörde:</strong>
-Bayerisches Staatsministerium für Wissenschaft, Forschung und Kunst
-80327 München
-Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: DE 811205325</p>
+<p><strong>Zuständige Aufsichtsbehörde:</strong><br>
+Bayerisches Staatsministerium für Wissenschaft, Forschung und Kunst<br>
+80327 München<br>
+Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: DE 811205325</p>
 
-<p><strong>Haftungsausschluss:</strong>
+<p><strong>Haftungsausschluss:</strong><br>
 Alle Angaben auf diesen Seiten wurden nach bestem Wissen erstellt, Fehler können jedoch nicht mit letzter Sicherheit ausgeschlossen werden. Rechtlich verbindlich sind ausschließlich die Festlegungen in den einschlägigen Rechtsgrundlagen (Gesetze, Verordnungen, Satzungen).</p>
 
 <p>Diese Seiten enthalten Links zu externen Angeboten. Trotz sorgfältiger Kontrolle wird keine Haftung für diese übernommen. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.</p>
