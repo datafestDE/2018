@@ -93,7 +93,7 @@ Eine Guideline für Teilnehmer gibt es [hier [pdf]](files/StudentsInfosandGuidel
 
 ### Impressum
 
-<font, size="2">
+<font size="2">
 
 **Anschrift:**
 Institut für Statistik
