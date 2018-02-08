@@ -19,11 +19,10 @@ small {
 
 ## Wer kann teilnehmen?
 
-Bachelor- und Masterstudierende aller Fachrichtungen, insbesondere der Sozialwissenschaften, Statistik, Informatik und Wirtschaftswissenschaften. Ihr meldet euch als Team mit 2-5 Personen an.
-Da die Aufgabe komplex ist empfehlen wir *mindestens* zu dritt anzutreten.
+Bachelor- und Masterstudierende aller Fachrichtungen, insbesondere der Sozialwissenschaften, Statistik, Informatik und Wirtschaftswissenschaften. Ihr meldet euch als Team mit 3-5 Personen an.
 
 Wenn Du im Moment promovierst oder Deinen Doktor schon in der Tasche hast kannst Du leider nicht direkt als Mitglied eines Teams teilnehmen damit das Skill-Level der Teams nicht zu unterschiedlich wird.
-Wir würden uns aber sehr freuen wenn Du Dich trotzdem aktiv am DataFest beteiligen willst: Melde Dich [hier](https://docs.google.com/forms/d/1Tjf1SnE2yoNtZb12bJeKORQe0fiY5Qi67w0MA-igGag/viewform) an um als Unterstützer_in den Studi-Teams mit Rat & Tat zur Seite zu stehen oder um außer Konkurrenz am Wettbewerb teilzunehmen.
+Wir würden uns aber sehr freuen wenn Du Dich trotzdem aktiv am DataFest beteiligen willst: Melde Dich per Mail bei info@datafest.de an um als Unterstützer*in den Studi-Teams mit Rat & Tat zur Seite zu stehen oder um außer Konkurrenz am Wettbewerb teilzunehmen.
 
 
 ## Muss ich die ganze Zeit da sein?
@@ -33,7 +32,7 @@ Nein! Du kannst kommen und gehen wann Du möchtest. Allerdings ist es nicht erla
 ## Was brauche ich, um mitzumachen?
 
 Alles, was Du brauchst, ist ein Laptop und die Software, die Du am liebsten nutzt.
-Und Du brauchst Freunde, Kommilitonen oder einfach Mitstreiter, mit denen Du dich als Team anmeldest. Ein Team besteht aus mindestens 2 und maximal 5 Personen. Da die Aufgabe komplex ist empfehlen wir *mindestens* zu dritt anzutreten.
+Und Du brauchst Freunde, Kommilitonen oder einfach Mitstreiter, mit denen Du dich als Team anmeldest. Ein Team besteht aus mindestens 3 und maximal 5 Personen.
 
 ## Ich habe kein Team, kann ich mich trotzdem anmelden?
 
@@ -62,4 +61,4 @@ Wir sorgen für ausreichend gesunde und ungesunde Nahrungsmittel und Getränke r
 
 ## Noch Fragen?
 
-Dann poste bitte in der [Datafest-Facebook-Gruppe](https://www.facebook.com/groups/DataFestGermany/) oder wende dich [per Mail an uns](mailto:datafest@stat.uni-muenchen.de).
+Dann poste bitte in der [Datafest-Facebook-Gruppe](https://www.facebook.com/groups/DataFestGermany/) oder wende dich [per Mail an uns](mailto:info@datafest.de).

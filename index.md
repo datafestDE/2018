@@ -28,7 +28,7 @@ img {
 ## Was ist DataFest Germany?
 
 Essen, hacken, Daten checken! Bezwinge einen wirklich großen Datensatz im Team mit bis zu vier Freunden!
-Kommt vom 23. bis 25. März nach München und macht aus richtig vielen Daten richtig gute Information!
+Kommt vom 23. bis 25. März 2018 nach München und macht aus richtig vielen Daten richtig gute Information!
 Präsentiert eure Ergebnisse, überzeugt die Jury und beeindruckt nebenbei potentielle Arbeitgeber.
 
 Das letzte [DataFest Germany](https://hiwissml.github.io/datafest2017.github.io/) an der Uni Mannheim war im vergangenen Jahr ein großer Erfolg. Organisiert wird es in diesem Jahr ebenfalls wieder vom einem Konsortium aus dem [Lehrstuhl für Statistik und sozialwissenschaftliche Methodenlehre der Universität Mannheim](http://sswml.uni-mannheim.de/), dem [Institut für Statistik der LMU München](http://www.stat.uni-muenchen.de/) und der American Statistical Association ([ASA](http://www.amstat.org/)).
@@ -39,9 +39,9 @@ Auch unsere Partneruniversitäten in den USA haben in den vergangenen Jahren Top
 - [Princeton University](http://orfe.princeton.edu/datafest/)
 - [UCLA](http://datafest.stat.ucla.edu/groups/datafest/)
 
-## Wann und wo fand das DataFest statt?
+## Wann und wo findet das DataFest statt?
 
-Freitag, 23. März, 18 Uhr bis Sonntag, 25. März, 14 Uhr
+Freitag, 23. März 2018, 18 Uhr bis Sonntag, 25. März 2018, 14 Uhr
 
 Ludwig-Maximilians-Universität München
 Hauptgebäude am Geschwister-Scholl-Platz
@@ -53,7 +53,7 @@ Parkplätze rund ums Hauptgebäude der LMU sind rar -- wir empfehlen die Anreise
 
 ### Anreise per Zug:
 
-Vom Hauptbahnhof München mit U-Bahn U4 (Richtung Arabellapark) oder U5 (Richtung Neuperlach Süd) zum Odeonsplatz (2 Stationen). Dort in die U3 (Richtung Olympia-Einkaufszentrum) oder U6 (Richtung Garching-Forschungszentrum) umsteigen und an der Haltestelle Universität aussteigen (1 Station). In Fahrtrichtung den Bahnsteig entlanglaufen, der Nordausgang der Station ist direkt am Hauptgebäude der LMU.
+Vom Hauptbahnhof München mit U-Bahn U4 (Richtung Arabellapark) oder U5 (Richtung Neuperlach Süd) zum Odeonsplatz (2 Stationen). Dort in die U3 (Richtung Moosach) oder U6 (Richtung Garching-Forschungszentrum) umsteigen und an der Haltestelle Universität aussteigen (1 Station). In Fahrtrichtung den Bahnsteig entlanglaufen und der Beschilderung zum Geschwister-Scholl-Platz folgen. Der Nordausgang der Station ist direkt am Hauptgebäude der LMU.
 [[Münchner Verkehrsverbund]](http://www.mvv-muenchen.de/)
 
 ## Ablauf
@@ -71,7 +71,7 @@ Weitere Infos gibt's auch in unserer Guideline für Teilnehmer [[pdf]](files/Stu
 ## Wie kann ich mich anmelden?
 
 
-Du kannst Dich und Dein Team bis 28.2.2018 [hier](https://goo.gl/forms/5SX1ydaHXRl5vJGQ2) anmelden.
+Du kannst Dich und Dein Team bis zum 28. Februar 2018 [hier](https://goo.gl/forms/5SX1ydaHXRl5vJGQ2) anmelden.
 Zur verbindlichen Anmeldung muss eine Teilnahmegebühr in Höhe von 10€ pro Teammitglied überwiesen werden.
 
 [Zum Anmeldeformular](https://goo.gl/forms/5SX1ydaHXRl5vJGQ2)
@@ -79,15 +79,15 @@ Zur verbindlichen Anmeldung muss eine Teilnahmegebühr in Höhe von 10€ pro Te
 
 Bitte lies Dir zuerst auch die [FAQ](faq.html) durch.
 
-Die Plätze sind begrenzt, also am besten gleich anmelden! Falls sich die Plätze sehr schnell füllen werden Teams mit mehr Mitgliedern bevorzugt behandelt um möglichst vielen Leuten die Chance zu geben am DataFest teilzunehmen. Bitte rechnet mit ein paar Tagen Verzögerung zwischen Eurer Anmeldung und der Zusendung der Bankdaten für die Überweisung.
-
-Die Plätze waren begrenzt, leider sind dieses Jahr keine weiteren Anmeldungen mehr möglich.
+Die Plätze sind begrenzt, also am besten gleich anmelden! Falls sich die Plätze sehr schnell füllen, werden Teams mit mehr Mitgliedern bevorzugt behandelt um möglichst vielen Studenten die Chance zu geben am DataFest teilzunehmen. Bitte rechnet mit ein paar Tagen Verzögerung zwischen Eurer Anmeldung und der Zusendung der Bankdaten für die Überweisung.
 
 
 ## Häufige Fragen
 
 ... werden [hier](faq.html) beantwortet.
-Oder nimm auf [Facebook](https://www.facebook.com/groups/DataFestGermany/) mit uns Kontak auf.
+Oder nimm auf [Facebook](https://www.facebook.com/groups/DataFestGermany/) oder [Twitter](https://twitter.com/DataFestGermany) mit uns Kontak auf.
+
+Du kannst uns auch eine E-Mail schreiben an: [info@datafest.de](mailto:info@datafest.de)
 
 Eine Guideline für Teilnehmer gibt es [hier [pdf]](files/StudentsInfosandGuidelines.pdf).
 
