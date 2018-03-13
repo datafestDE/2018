@@ -59,23 +59,22 @@ Vom Hauptbahnhof München mit U-Bahn U4 (Richtung Arabellapark) oder U5 (Richtun
 ## Ablauf
 
 
-# Friday, 23.03.18
+### Friday, 23.03.18
 - 6 - 7 pm: Registration
 - 7 - 8 pm:  Welcome, introduction to data
 - 8 pm: Dinner
 
-# Saturday, 24.03.18
+### Saturday, 24.03.18
 - 9:00 am: Breakfast
 - 1 pm: Lunch
 - 6:30 pm: Dinner
 
-# Sunday, 25.03.18
+### Sunday, 25.03.18
 - 8:00 am: Breakfast
 - 11:30 am: Deadline for presentations via email
 - 12:00-14:30 Uhr: Presentations
 - 14:30 - 14:45 Uhr: Scoring + group picture
 - 15:00 - 15:15: Award ceremony
-
 
 
 
