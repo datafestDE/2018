@@ -107,7 +107,13 @@ Du kannst uns auch eine E-Mail schreiben an: [info@datafest.de](mailto:info@data
 
 Eine Guideline für Teilnehmer gibt es [hier [pdf]](files/StudentsInfosandGuidelines.pdf).
 
-### Impressum
+## Sponsor 2018
+
+<center>
+<img src="files/TS_TS_f_rgb.jpg" style="width: 200px;"/>
+</center>
+
+##### Impressum
 
 <div style="font-size:12px;">
 
